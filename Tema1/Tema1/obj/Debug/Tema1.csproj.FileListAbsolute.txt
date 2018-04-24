@@ -1,0 +1,7 @@
+c:\users\diana\source\repos\Tema1\Tema1\obj\Debug\Tema1.csprojResolveAssemblyReference.cache
+c:\users\diana\source\repos\Tema1\Tema1\obj\Debug\Tema1.csproj.CoreCompileInputs.cache
+c:\users\diana\source\repos\Tema1\Tema1\bin\Debug\Tema1.exe.config
+c:\users\diana\source\repos\Tema1\Tema1\bin\Debug\Tema1.exe
+c:\users\diana\source\repos\Tema1\Tema1\bin\Debug\Tema1.pdb
+c:\users\diana\source\repos\Tema1\Tema1\obj\Debug\Tema1.exe
+c:\users\diana\source\repos\Tema1\Tema1\obj\Debug\Tema1.pdb
